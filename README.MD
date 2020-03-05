@@ -8,4 +8,5 @@ Most records have only less than 50% completeness.Some datafields has less than 
 ## Industrial Answer
 The Data is extremely incomplete.Better policy on data disclosure needed.
 ## Visualization:
-
+![!](https://github.com/jerryyao120-ndd/DAF-MINI-PROJECT4-DATA-COMPLETENESS-IN-CLINTRIAL.GOV/blob/master/PJ0.png)
+![1](https://github.com/jerryyao120-ndd/DAF-MINI-PROJECT4-DATA-COMPLETENESS-IN-CLINTRIAL.GOV/blob/master/PJ1.png)
