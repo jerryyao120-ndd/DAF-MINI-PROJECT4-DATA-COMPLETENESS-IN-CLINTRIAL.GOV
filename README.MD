@@ -10,3 +10,7 @@ The Data is extremely incomplete.Better policy on data disclosure needed.
 ## Visualization:
 ![!](https://github.com/jerryyao120-ndd/DAF-MINI-PROJECT4-DATA-COMPLETENESS-IN-CLINTRIAL.GOV/blob/master/PJ0.png)
 ![1](https://github.com/jerryyao120-ndd/DAF-MINI-PROJECT4-DATA-COMPLETENESS-IN-CLINTRIAL.GOV/blob/master/PJ1.png)
+## Original data:
+(https://clinicaltrials.gov/)
+## Oroginal File:
+Not available now due to disk malfunction.Will beupdated later. Hopefully you canunderstand.
